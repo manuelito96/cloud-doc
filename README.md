@@ -3,7 +3,7 @@
 
 1) Data center provided by network
 
-2) You only pay  just what you use
+2) You  pay  just what you use
 
 3) Bottleneck: many computers to satisfy the need of data
 
